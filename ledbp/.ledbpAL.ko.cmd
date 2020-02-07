@@ -1,0 +1,1 @@
+cmd_/users/enseig/lelouet/Documents/ioc2/ledbp/ledbpAL.ko := /users/enseig/franck/IOC/arm-bcm2708hardfp-linux-gnueabi/bin/bcm2708hardfp-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /users/enseig/lelouet/Documents/ioc2/ledbp/ledbpAL.ko /users/enseig/lelouet/Documents/ioc2/ledbp/ledbpAL.o /users/enseig/lelouet/Documents/ioc2/ledbp/ledbpAL.mod.o

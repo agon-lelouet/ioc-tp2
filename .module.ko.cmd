@@ -1,0 +1,1 @@
+cmd_/users/enseig/lelouet/Documents/ioc2/module.ko := /users/enseig/franck/IOC/arm-bcm2708hardfp-linux-gnueabi/bin/bcm2708hardfp-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /users/enseig/lelouet/Documents/ioc2/module.ko /users/enseig/lelouet/Documents/ioc2/module.o /users/enseig/lelouet/Documents/ioc2/module.mod.o
